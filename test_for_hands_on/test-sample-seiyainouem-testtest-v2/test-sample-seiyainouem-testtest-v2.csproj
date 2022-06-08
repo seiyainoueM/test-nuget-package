@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>test_sample_seiyainouem_testtest_v2</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>test-sample-seiyainouem-testtest-v2</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>test_inoue</Authors>
+    <Company>test_company</Company>
+    <PackageDescription>First Test!</PackageDescription>
+    <RepositoryUrl>https://github.com/seiyainoueM/test-nuget-package</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
